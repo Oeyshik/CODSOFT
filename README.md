@@ -7,4 +7,4 @@ This repository tracks my progress for the CODSOFT Web Development Internship's 
 [Link to Task 2 Repository](https://github.com/Oeyshik/To-Do_List_App)
 
 ### Task 3: CALCULATOR
-[Link to Task 3 Repository](https://github.com/Oeyshik/Kaiburr-Task3)
+[Link to Task 3 Repository](https://github.com/Oeyshik/Calculator)
